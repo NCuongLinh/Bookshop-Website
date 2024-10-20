@@ -44,23 +44,30 @@ Follow these instructions to set up and run the project locally.
     dotnet run
 ## Usage
 ### User Feature
-####
+#### Sign in
 
-####
+#### Login
 
-####
+#### External authorization
+You can use google authorization to login the website
 
-####
+#### Search a book
+You can search book by title 
 
+#### Category
+You can find books with a specific genre or language
+
+#### Add book to cart
+You can press this button a book to your cart
 
 ### Admin Features
 #### How to add a user as admin
 
-####
+#### Add a book
 
-#### 
+#### Update a book
 
-#### 
+#### Delete a book
 
 
 ## Sceenshots
@@ -70,5 +77,8 @@ Follow these instructions to set up and run the project locally.
 - *Lack of features:* The application currently supports basic book management and does not include advanced features such as payment processing.
 - *Limited database:* The database is limited to LocalDB; production deployment requires a more robust database solution.
 - *Unresposive:* Some features may not be fully optimized for all screen sizes or browsers.
-
+- *No wishlist:*
+- *No comment section:*
+- *No book rating:*
+  
 ## Future Improvements
