@@ -2,12 +2,17 @@
 
 This project is a web application for a bookshop built using ASP.NET Core, designed to provide users with an intuitive and efficient way to browse, search, and purchase books online. The application leverages LocalDB for database management and is developed using Visual Studio.
 
-### Key Functions
+## Key Functions
 - **User Authentication**: Secure user registration and login system using Auth0.
 - **Book Management**: Admin interface for adding, updating, and removing books from the inventory.
 - **Shopping Cart**: Functionality to add and remove books from the shopping cart.
 - **Search and Filter**: Users can search for books by title, author, or genre.
-
+## Technologies Used
+- ASP.NET Core
+- Entity Framework Core
+- Bootstrap 5
+- Auth0
+- LocalDB
 ## Getting Started
 
 Follow these instructions to set up and run the project locally.
@@ -37,10 +42,33 @@ Follow these instructions to set up and run the project locally.
 10. Start the application:
     ```bash
     dotnet run
-### Sceenshots
+## Usage
+### User Feature
+####
+
+####
+
+####
+
+####
 
 
-### Limitations
-- The application currently supports basic book management and does not include advanced features such as payment processing.
-- The database is limited to LocalDB; production deployment requires a more robust database solution.
-- Some features may not be fully optimized for all screen sizes or browsers.
+### Admin Features
+#### How to add a user as admin
+
+####
+
+#### 
+
+#### 
+
+
+## Sceenshots
+
+
+## Limitations
+- *Lack of features:* The application currently supports basic book management and does not include advanced features such as payment processing.
+- *Limited database:* The database is limited to LocalDB; production deployment requires a more robust database solution.
+- *Unresposive:* Some features may not be fully optimized for all screen sizes or browsers.
+
+## Future Improvements
