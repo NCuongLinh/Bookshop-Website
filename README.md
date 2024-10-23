@@ -45,9 +45,11 @@ Follow these instructions to set up and run the project locally.
     dotnet run
 ## Usage
 ### User Feature
-#### Sign in
-
 #### Login
+<img src="wwwroot/assets/screenshot/login.png" style="width: 400px;height:auto">
+
+#### Signup
+<img src="wwwroot/assets/screenshot/signin.png" style="width: 400px;height:auto">
 
 #### External authorization
 You can use google authorization to login the website
@@ -65,13 +67,16 @@ You can press this button a book to your cart
 #### How to add a user as admin
 
 #### Add a book
+<img src="wwwroot/assets/screenshot/create.png" style="width: 400px;height:auto">
 
 #### Update a book
+<img src="wwwroot/assets/screenshot/edit.png" style="width: 400px;height:auto">
 
 #### Delete a book
 
 
 ## Screenshots
+<img src="wwwroot/assets/screenshot/main.png" style="width: 600px;height:auto">
 
 
 ## Limitations
